@@ -194,6 +194,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>ECPVDUA22T4004389</id>
+    <link>https://volga-auto-samara.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-black-2026/</link>
+    <brand>Volga</brand>
+    <model>K50</model>
+    <year>2026</year>
+    <title>Volga K50 Премиум 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004364/0/full.webp?v=b76da374ced4</image_link>
+    <price>4649000 RUB</price>
+    <sale_price>3600000 RUB</sale_price>
+    <min_price>3600000 RUB</min_price>
+    <max_price>4649000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Черный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>ECPVDUA22T4004389</vin>
+    <availability>на заказ</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>ECPVDUA22T4004420</id>
     <link>https://volga-auto-samara.ru/cars/volga-k50-20t-4wd-at-238-hp-premium-silver-2026/</link>
     <brand>Volga</brand>
