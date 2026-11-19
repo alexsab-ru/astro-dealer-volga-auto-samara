@@ -119,45 +119,6 @@
       </images>
     </car>
     <car>
-      <unique_id>ECPVDUA22T4004200</unique_id>
-      <url>https://volga-auto-samara.ru/cars/volga-k50-20t-4wd-at-238-hp-comfort-white-2026/</url>
-      <mark_id>Volga</mark_id>
-      <folder_id>K50</folder_id>
-      <year>2026</year>
-      <vin>ECPVDUA22T4004200</vin>
-      <price>4349000</price>
-      <sale_price>3350000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>999000</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Volga K50, Комфорт, 2.0T 4WD AT (238 л.с.), 2026 г., белый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/0/full.webp?v=6231ab2d93d9</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/1/full.webp?v=5d182b8d6f39</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/2/full.webp?v=1697ed7b97c4</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/3/full.webp?v=89bcb4952b96</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/4/full.webp?v=cf8c0eda500b</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/5/full.webp?v=0788c44eb28c</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/6/full.webp?v=710e85dcc51b</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/7/full.webp?v=64c4dad93217</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/8/full.webp?v=13fec95dcf1f</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/9/full.webp?v=6cbade57b8c0</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/10/full.webp?v=e6263cb651fe</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/11/full.webp?v=94ef07066052</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/12/full.webp?v=e3037012b32f</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/13/full.webp?v=6732212cc786</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/14/full.webp?v=3644c487e1d6</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/15/full.webp?v=2fbcd4c2dd46</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/16/full.webp?v=f2d601b25638</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/17/full.webp?v=76dabc6693be</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/18/full.webp?v=0c62ba85cf83</image>
-        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004200/19/full.webp?v=2cb9ff8f5c80</image>
-      </images>
-    </car>
-    <car>
       <unique_id>ECPVDUA22T4004265</unique_id>
       <url>https://volga-auto-samara.ru/cars/volga-k50-20t-4wd-at-238-hp-comfort-black-2026/</url>
       <mark_id>Volga</mark_id>
