@@ -1,6 +1,12 @@
 [
   {
     "brand": "Volga",
+    "model": "K40",
+    "price": 3400000,
+    "benefit": 559000
+  },
+  {
+    "brand": "Volga",
     "model": "K50",
     "price": 3350000,
     "benefit": 1099000
