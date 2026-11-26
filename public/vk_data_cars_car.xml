@@ -26,6 +26,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/5/full.webp?v=2696251851c3</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/6/full.webp?v=14f0097631bc</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/7/full.webp?v=6ca090058dd5</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/8/full.webp?v=64506f4c2b86</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/9/full.webp?v=cb45e766cdd1</image>
       </images>
     </car>
     <car>
@@ -114,10 +116,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4003920</vin>
       <price>4799000</price>
-      <sale_price>3700000</sale_price>
+      <sale_price>4399000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1099000</max_benefit>
+      <max_benefit>400000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -248,6 +250,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/5/full.webp?v=3234d6d8a5bb</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/6/full.webp?v=14fc4a185d12</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/7/full.webp?v=2f85369129a1</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/8/full.webp?v=04dd63aec43c</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/9/full.webp?v=fd8f1d6cb73d</image>
       </images>
     </car>
     <car>
@@ -297,10 +301,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4004998</vin>
       <price>4799000</price>
-      <sale_price>3700000</sale_price>
+      <sale_price>4000000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1099000</max_benefit>
+      <max_benefit>799000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -336,10 +340,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005011</vin>
       <price>4799000</price>
-      <sale_price>3700000</sale_price>
+      <sale_price>3900000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1099000</max_benefit>
+      <max_benefit>899000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -414,10 +418,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005036</vin>
       <price>4799000</price>
-      <sale_price>3700000</sale_price>
+      <sale_price>3800000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>1099000</max_benefit>
+      <max_benefit>999000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -431,6 +435,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/5/full.webp?v=8ae673fdd7c0</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/6/full.webp?v=563914bf11ff</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/7/full.webp?v=3918776cad98</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/8/full.webp?v=9633b0a1f40a</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/9/full.webp?v=8ffea3ac2dcb</image>
       </images>
     </car>
     <car>
@@ -524,7 +530,7 @@
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>1049000</max_benefit>
       <color>серебряный</color>
-      <availability>На заказ</availability>
+      <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
       <description>Автомобиль Volga K50, Премиум, 2.0T 4WD AT (238 л.с.), 2026 г., серебряный</description>
       <images>
@@ -575,6 +581,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/5/full.webp?v=7af3461206e8</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/6/full.webp?v=18b3f766b8c8</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/7/full.webp?v=b48343a089bc</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/8/full.webp?v=5cbdddcd6647</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/9/full.webp?v=b5a23dbee5ef</image>
       </images>
     </car>
     <car>
