@@ -34,6 +34,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/13/full.webp?v=f92de6d818eb</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/14/full.webp?v=421187e7c7db</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/15/full.webp?v=a0c04bb4e73b</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/16/full.webp?v=c01d865eba30</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVCUA22T3008406/17/full.webp?v=a6fd40c62a05</image>
       </images>
     </car>
     <car>
@@ -122,10 +124,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4003920</vin>
       <price>4799000</price>
-      <sale_price>4399000</sale_price>
+      <sale_price>3700000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>400000</max_benefit>
+      <max_benefit>1099000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -264,6 +266,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/13/full.webp?v=b3bc97449323</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/14/full.webp?v=e76805a23980</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/15/full.webp?v=8105de82106b</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/16/full.webp?v=4b5178a6548e</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4004389/17/full.webp?v=6c0a8d47a487</image>
       </images>
     </car>
     <car>
@@ -313,10 +317,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4004998</vin>
       <price>4799000</price>
-      <sale_price>4000000</sale_price>
+      <sale_price>3700000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>799000</max_benefit>
+      <max_benefit>1099000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -352,10 +356,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005011</vin>
       <price>4799000</price>
-      <sale_price>3900000</sale_price>
+      <sale_price>3700000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>899000</max_benefit>
+      <max_benefit>1099000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -430,10 +434,10 @@
       <year>2026</year>
       <vin>ECPVDUA22T4005036</vin>
       <price>4799000</price>
-      <sale_price>3800000</sale_price>
+      <sale_price>3700000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>999000</max_benefit>
+      <max_benefit>1099000</max_benefit>
       <color>зеленый</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
@@ -455,6 +459,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/13/full.webp?v=a6cb5499fd38</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/14/full.webp?v=d306d9282320</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/15/full.webp?v=8d7b50036923</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/16/full.webp?v=7b4de0ed9274</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005036/17/full.webp?v=9f768b0386dd</image>
       </images>
     </car>
     <car>
@@ -607,6 +613,8 @@
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/13/full.webp?v=45c177f7b13a</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/14/full.webp?v=88ff907ad183</image>
         <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/15/full.webp?v=50f8190ac553</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/16/full.webp?v=af5b368ed752</image>
+        <image>https://img.upspace.ru/cars/volga-auto-samara.ru/new/ECPVDUA22T4005997/17/full.webp?v=cfca77416c24</image>
       </images>
     </car>
     <car>
